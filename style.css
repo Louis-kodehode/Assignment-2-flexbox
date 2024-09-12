@@ -3,7 +3,7 @@
 /* Realised after I was done with everything I could also add an additional class for button so I wouldn't add everything twice */
 /* I tried to add --colors but I bailed when things started to fail */
 /* Didn't fully understand overflow or when you should use min-weight, max-weight or weight.
-I failed when I tried myself but with what you did under the presentation. Line 32 */
+I failed when I tried myself, but worked with what you did. Line 32 */
 * {
   margin: 0;
   padding: 0;
